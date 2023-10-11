@@ -22,12 +22,18 @@
     align-items: center;
 }
 
-.icone{
+.flex-end{
     justify-content: flex-end;
 }
 
 .flex-start {
     justify-content: flex-start;
+}
+
+.img-modello{
+    height: 150px;
+    width: 100px;
+
 }
 
 header{
