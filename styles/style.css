@@ -13,17 +13,21 @@
 
 .box{
     height: 70px;
+    width: 1000px;
 }
 
 .terzina-header{
     width: calc(100% / 3);
     border: solid black;
-    /* justify-content: center; */
     align-items: center;
 }
 
 .icone{
     justify-content: flex-end;
+}
+
+.flex-start {
+    justify-content: flex-start;
 }
 
 header{
@@ -33,6 +37,7 @@ header{
 
 ul{
     list-style-type: none;
+    
 }
 
 li{
