@@ -4,3 +4,47 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.flex{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.box{
+    height: 70px;
+}
+
+.terzina-header{
+    width: calc(100% / 3);
+    border: solid black;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.icone{
+    justify-content: flex-end;
+}
+
+header{
+    background-color: #ff6900;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    padding: 1.7rem 0.3rem;
+    
+}
+
+img{
+    width: max-content;
+    height: 40%;
+}
+
+i{
+    padding: 1.7rem 0.3rem;
+}
