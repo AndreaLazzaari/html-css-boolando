@@ -53,18 +53,24 @@ main > div.contenitore-prodotti{
     flex-wrap: wrap;
     justify-content: center;
     align-content: center;
+    padding: 2rem;
 }
 
 main article.card{
-    /* height: 500px; */
     width: calc(100% / 3);
+    height: 100%;
 }
 
-article.card div.conteiner-img
+ /* main div.contenitore-prodotti{
+    height: 100%; */
+/* } */
+/* article.card div.conteiner-img{
+    height: 100%;
+}
 
 
 div.conteiner-img img{
-    width: 100%;
-}
+    height: 100%;
+} */
 
 
